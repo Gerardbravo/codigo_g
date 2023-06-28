@@ -1,0 +1,17 @@
+a {
+    text-decoration: none;
+}
+
+#name-container {
+    border: 2px solid black;
+    background-color: #f2f2f2;
+    width: 300px; margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+ }
+ 
+ #emoji {
+    font-size: 50px;
+}
